@@ -1,0 +1,8 @@
+#interceptGraph_SVGContainer{
+    background-color: #f0f0f0;
+}
+
+
+.outerAxis_rise_, .outerAxis_drop_, .innerAxis_rise_, .innerAxis_drop_{
+    visibility: hidden;
+}
